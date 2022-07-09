@@ -6,7 +6,7 @@ This repository contains the course material of **ME-391 Numerical Methods in En
 
 ## Course Description
 
-This course is a senior undergraduate-level course focusing on the basics of numerical methods widely used in engineering practice. The course content will cover topics from **Solving Linear and Nonlinear Equations, Interpolation, Least squares,  Differentiation and Integration, ODE (both IVP & BVP), PDE, Optimization, Fourier Transform, and Eigenvalue & Singular Value**. The homework problems are mainly accomplished by MATLAB coding.
+This course is a senior undergraduate-level course focusing on the basics of numerical methods widely used in engineering practice. The course content will cover topics from **Solving Linear and Nonlinear Equations, Interpolation, Least squares,  Differentiation and Integration, ODE (both IVP & BVP), PDE, Optimization, Fourier Transform, and Eigenvalue & Singular Value**. The homework assignments are mainly accomplished by MATLAB coding.
 
 ## Textbooks
 
@@ -56,4 +56,4 @@ Apart from the lecture slides, most materials are in Chinese. I may translate so
 
 *The copyrights of all the assignments, quizzes, and solutions (including feedbacks) are owed by Prof Ye Ding and the course TA Weijia Zhang and Yongxue Chen.
 
-I will gradually upload the related files (codes and my solutions) as many of them are poorly organized in my current view. I may make some modifications and comments as time goes on.
+I will gradually upload the related files (codes and my solutions) as time goes on. It may take quite a long time since many of my past files are poorly organized in my current view, and I may make some modifications and comments before uploading.
