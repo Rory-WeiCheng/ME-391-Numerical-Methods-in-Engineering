@@ -48,7 +48,7 @@ The homework assignment for the XXth lecture, including
 
 ***<u>Notes:</u>** 
 
-Apart from the lecture slides, most materials are in Chinese. I may translate some of the code comments into English in the future for better understanding. If you find my solutions or codes wrong, welcome to leave a message, and I will appreciate it a lot!
+Apart from the lecture slides, most materials are in Chinese. I may translate some of the code comments into English in the future for better understanding. If you find my solutions or codes wrong or need to be improved, welcome to leave a message, and I will appreciate it a lot!
 
 ## *Other Statement
 
